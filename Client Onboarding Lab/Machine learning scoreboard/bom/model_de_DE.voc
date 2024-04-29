@@ -1,0 +1,26 @@
+
+# kasand498.client_onboarding.client_onboarding_lab.machinelearningscoreboard.Input
+kasand498.client_onboarding.client_onboarding_lab.machinelearningscoreboard.Input#concept.label = ML-Modelleingabe
+kasand498.client_onboarding.client_onboarding_lab.machinelearningscoreboard.Input.Input(java.lang.Integer)#phrase.navigation = ein neuer {ML-Modelleingabe} wobei {0, clientindustry} 
+kasand498.client_onboarding.client_onboarding_lab.machinelearningscoreboard.Input.clientindustry#phrase.action = setze das clientindustry von {this} auf {clientindustry}
+kasand498.client_onboarding.client_onboarding_lab.machinelearningscoreboard.Input.clientindustry#phrase.addition_setter = füge {clientindustry} zu das clientindustry von {this} hinzu
+kasand498.client_onboarding.client_onboarding_lab.machinelearningscoreboard.Input.clientindustry#phrase.navigation = {clientindustry} von {this}
+kasand498.client_onboarding.client_onboarding_lab.machinelearningscoreboard.Input.clientindustry#phrase.subtraction_setter = ziehe {clientindustry} von das clientindustry von {this} ab
+
+# kasand498.client_onboarding.client_onboarding_lab.machinelearningscoreboard.Output
+kasand498.client_onboarding.client_onboarding_lab.machinelearningscoreboard.Output#concept.label = ML-Modellausgabe
+kasand498.client_onboarding.client_onboarding_lab.machinelearningscoreboard.Output.Output(java.lang.String,java.lang.Double,java.lang.Double,int)#phrase.navigation = ein neuer {ML-Modellausgabe} wobei {0, predicted clientdefaultedpayment} {1, confidence} {2, weight} {3, rank} 
+kasand498.client_onboarding.client_onboarding_lab.machinelearningscoreboard.Output.confidence#phrase.action = setze das confidence von {this} auf {confidence}
+kasand498.client_onboarding.client_onboarding_lab.machinelearningscoreboard.Output.confidence#phrase.addition_setter = füge {confidence} zu das confidence von {this} hinzu
+kasand498.client_onboarding.client_onboarding_lab.machinelearningscoreboard.Output.confidence#phrase.navigation = {confidence} von {this}
+kasand498.client_onboarding.client_onboarding_lab.machinelearningscoreboard.Output.confidence#phrase.subtraction_setter = ziehe {confidence} von das confidence von {this} ab
+kasand498.client_onboarding.client_onboarding_lab.machinelearningscoreboard.Output.predictedClientdefaultedpayment#phrase.action = setze das predicted clientdefaultedpayment von {this} auf {predicted clientdefaultedpayment}
+kasand498.client_onboarding.client_onboarding_lab.machinelearningscoreboard.Output.predictedClientdefaultedpayment#phrase.navigation = {predicted clientdefaultedpayment} von {this}
+kasand498.client_onboarding.client_onboarding_lab.machinelearningscoreboard.Output.rank#phrase.action = setze das rank von {this} auf {rank}
+kasand498.client_onboarding.client_onboarding_lab.machinelearningscoreboard.Output.rank#phrase.addition_setter = füge {rank} zu das rank von {this} hinzu
+kasand498.client_onboarding.client_onboarding_lab.machinelearningscoreboard.Output.rank#phrase.navigation = {rank} von {this}
+kasand498.client_onboarding.client_onboarding_lab.machinelearningscoreboard.Output.rank#phrase.subtraction_setter = ziehe {rank} von das rank von {this} ab
+kasand498.client_onboarding.client_onboarding_lab.machinelearningscoreboard.Output.weight#phrase.action = setze das weight von {this} auf {weight}
+kasand498.client_onboarding.client_onboarding_lab.machinelearningscoreboard.Output.weight#phrase.addition_setter = füge {weight} zu das weight von {this} hinzu
+kasand498.client_onboarding.client_onboarding_lab.machinelearningscoreboard.Output.weight#phrase.navigation = {weight} von {this}
+kasand498.client_onboarding.client_onboarding_lab.machinelearningscoreboard.Output.weight#phrase.subtraction_setter = ziehe {weight} von das weight von {this} ab

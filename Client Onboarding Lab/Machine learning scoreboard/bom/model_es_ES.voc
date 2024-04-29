@@ -1,0 +1,26 @@
+
+# kasand498.client_onboarding.client_onboarding_lab.machinelearningscoreboard.Input
+kasand498.client_onboarding.client_onboarding_lab.machinelearningscoreboard.Input#concept.label = Entrada del modelo ML
+kasand498.client_onboarding.client_onboarding_lab.machinelearningscoreboard.Input.Input(java.lang.Integer)#phrase.navigation = un nuevo {Entrada del modelo ML} en que {0, clientindustry} 
+kasand498.client_onboarding.client_onboarding_lab.machinelearningscoreboard.Input.clientindustry#phrase.action = cambiar el clientindustry {this,PARTITIVE_ARTICLE} a {clientindustry}
+kasand498.client_onboarding.client_onboarding_lab.machinelearningscoreboard.Input.clientindustry#phrase.addition_setter = añadir {clientindustry} a el clientindustry {this,PARTITIVE_ARTICLE}
+kasand498.client_onboarding.client_onboarding_lab.machinelearningscoreboard.Input.clientindustry#phrase.navigation = {clientindustry} {this,PARTITIVE_ARTICLE}
+kasand498.client_onboarding.client_onboarding_lab.machinelearningscoreboard.Input.clientindustry#phrase.subtraction_setter = sustraer {clientindustry} de el clientindustry {this,PARTITIVE_ARTICLE}
+
+# kasand498.client_onboarding.client_onboarding_lab.machinelearningscoreboard.Output
+kasand498.client_onboarding.client_onboarding_lab.machinelearningscoreboard.Output#concept.label = Salida del modelo ML
+kasand498.client_onboarding.client_onboarding_lab.machinelearningscoreboard.Output.Output(java.lang.String,java.lang.Double,java.lang.Double,int)#phrase.navigation = un nuevo {Salida del modelo ML} en que {0, predicted clientdefaultedpayment} {1, confidence} {2, weight} {3, rank} 
+kasand498.client_onboarding.client_onboarding_lab.machinelearningscoreboard.Output.confidence#phrase.action = cambiar el confidence {this,PARTITIVE_ARTICLE} a {confidence}
+kasand498.client_onboarding.client_onboarding_lab.machinelearningscoreboard.Output.confidence#phrase.addition_setter = añadir {confidence} a el confidence {this,PARTITIVE_ARTICLE}
+kasand498.client_onboarding.client_onboarding_lab.machinelearningscoreboard.Output.confidence#phrase.navigation = {confidence} {this,PARTITIVE_ARTICLE}
+kasand498.client_onboarding.client_onboarding_lab.machinelearningscoreboard.Output.confidence#phrase.subtraction_setter = sustraer {confidence} de el confidence {this,PARTITIVE_ARTICLE}
+kasand498.client_onboarding.client_onboarding_lab.machinelearningscoreboard.Output.predictedClientdefaultedpayment#phrase.action = cambiar la predicted clientdefaultedpayment {this,PARTITIVE_ARTICLE} a {predicted clientdefaultedpayment}
+kasand498.client_onboarding.client_onboarding_lab.machinelearningscoreboard.Output.predictedClientdefaultedpayment#phrase.navigation = {predicted clientdefaultedpayment} {this,PARTITIVE_ARTICLE}
+kasand498.client_onboarding.client_onboarding_lab.machinelearningscoreboard.Output.rank#phrase.action = cambiar el rank {this,PARTITIVE_ARTICLE} a {rank}
+kasand498.client_onboarding.client_onboarding_lab.machinelearningscoreboard.Output.rank#phrase.addition_setter = añadir {rank} a el rank {this,PARTITIVE_ARTICLE}
+kasand498.client_onboarding.client_onboarding_lab.machinelearningscoreboard.Output.rank#phrase.navigation = {rank} {this,PARTITIVE_ARTICLE}
+kasand498.client_onboarding.client_onboarding_lab.machinelearningscoreboard.Output.rank#phrase.subtraction_setter = sustraer {rank} de el rank {this,PARTITIVE_ARTICLE}
+kasand498.client_onboarding.client_onboarding_lab.machinelearningscoreboard.Output.weight#phrase.action = cambiar el weight {this,PARTITIVE_ARTICLE} a {weight}
+kasand498.client_onboarding.client_onboarding_lab.machinelearningscoreboard.Output.weight#phrase.addition_setter = añadir {weight} a el weight {this,PARTITIVE_ARTICLE}
+kasand498.client_onboarding.client_onboarding_lab.machinelearningscoreboard.Output.weight#phrase.navigation = {weight} {this,PARTITIVE_ARTICLE}
+kasand498.client_onboarding.client_onboarding_lab.machinelearningscoreboard.Output.weight#phrase.subtraction_setter = sustraer {weight} de el weight {this,PARTITIVE_ARTICLE}

@@ -1,0 +1,26 @@
+
+# kasand498.client_onboarding.client_onboarding_lab.machinelearningscoreboard.Input
+kasand498.client_onboarding.client_onboarding_lab.machinelearningscoreboard.Input#concept.label = ML 模型输入
+kasand498.client_onboarding.client_onboarding_lab.machinelearningscoreboard.Input.Input(java.lang.Integer)#phrase.navigation = 新建 {ML 模型输入}符合条件：{0, clientindustry} 
+kasand498.client_onboarding.client_onboarding_lab.machinelearningscoreboard.Input.clientindustry#phrase.action = 设置{this}的当前 clientindustry为{clientindustry}
+kasand498.client_onboarding.client_onboarding_lab.machinelearningscoreboard.Input.clientindustry#phrase.addition_setter = 加{clientindustry}到{this}的属性当前 clientindustry里
+kasand498.client_onboarding.client_onboarding_lab.machinelearningscoreboard.Input.clientindustry#phrase.navigation = {this} 的{clientindustry}
+kasand498.client_onboarding.client_onboarding_lab.machinelearningscoreboard.Input.clientindustry#phrase.subtraction_setter = 减{clientindustry}到{this}的属性当前 clientindustry里
+
+# kasand498.client_onboarding.client_onboarding_lab.machinelearningscoreboard.Output
+kasand498.client_onboarding.client_onboarding_lab.machinelearningscoreboard.Output#concept.label = ML 模型输出
+kasand498.client_onboarding.client_onboarding_lab.machinelearningscoreboard.Output.Output(java.lang.String,java.lang.Double,java.lang.Double,int)#phrase.navigation = 新建 {ML 模型输出}符合条件：{0, predicted clientdefaultedpayment} {1, confidence} {2, weight} {3, rank} 
+kasand498.client_onboarding.client_onboarding_lab.machinelearningscoreboard.Output.confidence#phrase.action = 设置{this}的当前 confidence为{confidence}
+kasand498.client_onboarding.client_onboarding_lab.machinelearningscoreboard.Output.confidence#phrase.addition_setter = 加{confidence}到{this}的属性当前 confidence里
+kasand498.client_onboarding.client_onboarding_lab.machinelearningscoreboard.Output.confidence#phrase.navigation = {this} 的{confidence}
+kasand498.client_onboarding.client_onboarding_lab.machinelearningscoreboard.Output.confidence#phrase.subtraction_setter = 减{confidence}到{this}的属性当前 confidence里
+kasand498.client_onboarding.client_onboarding_lab.machinelearningscoreboard.Output.predictedClientdefaultedpayment#phrase.action = 设置{this}的当前 predicted clientdefaultedpayment为{predicted clientdefaultedpayment}
+kasand498.client_onboarding.client_onboarding_lab.machinelearningscoreboard.Output.predictedClientdefaultedpayment#phrase.navigation = {this} 的{predicted clientdefaultedpayment}
+kasand498.client_onboarding.client_onboarding_lab.machinelearningscoreboard.Output.rank#phrase.action = 设置{this}的当前 rank为{rank}
+kasand498.client_onboarding.client_onboarding_lab.machinelearningscoreboard.Output.rank#phrase.addition_setter = 加{rank}到{this}的属性当前 rank里
+kasand498.client_onboarding.client_onboarding_lab.machinelearningscoreboard.Output.rank#phrase.navigation = {this} 的{rank}
+kasand498.client_onboarding.client_onboarding_lab.machinelearningscoreboard.Output.rank#phrase.subtraction_setter = 减{rank}到{this}的属性当前 rank里
+kasand498.client_onboarding.client_onboarding_lab.machinelearningscoreboard.Output.weight#phrase.action = 设置{this}的当前 weight为{weight}
+kasand498.client_onboarding.client_onboarding_lab.machinelearningscoreboard.Output.weight#phrase.addition_setter = 加{weight}到{this}的属性当前 weight里
+kasand498.client_onboarding.client_onboarding_lab.machinelearningscoreboard.Output.weight#phrase.navigation = {this} 的{weight}
+kasand498.client_onboarding.client_onboarding_lab.machinelearningscoreboard.Output.weight#phrase.subtraction_setter = 减{weight}到{this}的属性当前 weight里
